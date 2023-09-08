@@ -9,10 +9,10 @@ sites:
     url: https://www.contrixlab.com
 
   - name: 3dcrafts.net
-    url: https://3dcrafts.net
+    url: https://www.3dcrafts.net
 
   - name: 3dcrafts.co.kr
-    url: https://3dcrafts.co.kr
+    url: https://www.3dcrafts.co.kr
   
   # 가상전시관 패널
   - name: virtual exhibition panel
