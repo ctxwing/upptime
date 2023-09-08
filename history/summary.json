@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.3dcrafts.net.ico",
     "slug": "3dcrafts-net",
     "status": "up",
-    "uptime": "6.15%",
-    "uptimeDay": "6.15%",
-    "uptimeWeek": "6.15%",
-    "uptimeMonth": "6.15%",
-    "uptimeYear": "6.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1999,
     "timeDay": 1999,
     "timeWeek": 1999,
     "timeMonth": 1999,
     "timeYear": 1999,
-    "dailyMinutesDown": {
-      "2023-09-08": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "3dcrafts.co.kr",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.3dcrafts.co.kr.ico",
     "slug": "3dcrafts-co-kr",
     "status": "up",
-    "uptime": "5.36%",
-    "uptimeDay": "5.36%",
-    "uptimeWeek": "5.36%",
-    "uptimeMonth": "5.36%",
-    "uptimeYear": "5.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1672,
     "timeDay": 1672,
     "timeWeek": 1672,
     "timeMonth": 1672,
     "timeYear": 1672,
-    "dailyMinutesDown": {
-      "2023-09-08": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "virtual exhibition panel",
