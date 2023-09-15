@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1761,
     "timeDay": 1812,
-    "timeWeek": 1761,
+    "timeWeek": 1840,
     "timeMonth": 1761,
     "timeYear": 1761,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2091,
     "timeDay": 2185,
-    "timeWeek": 2091,
+    "timeWeek": 2133,
     "timeMonth": 2091,
     "timeYear": 2091,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1342,
     "timeDay": 1152,
-    "timeWeek": 1342,
+    "timeWeek": 1325,
     "timeMonth": 1342,
     "timeYear": 1342,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 795,
     "timeDay": 725,
-    "timeWeek": 795,
+    "timeWeek": 801,
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 944,
     "timeDay": 823,
-    "timeWeek": 944,
+    "timeWeek": 949,
     "timeMonth": 944,
     "timeYear": 944,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1015,
     "timeDay": 821,
-    "timeWeek": 1015,
+    "timeWeek": 1054,
     "timeMonth": 1015,
     "timeYear": 1015,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 940,
     "timeDay": 819,
-    "timeWeek": 940,
+    "timeWeek": 946,
     "timeMonth": 940,
     "timeYear": 940,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 911,
     "timeDay": 817,
-    "timeWeek": 911,
+    "timeWeek": 902,
     "timeMonth": 911,
     "timeYear": 911,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 1212,
     "timeDay": 1094,
-    "timeWeek": 1212,
+    "timeWeek": 1241,
     "timeMonth": 1212,
     "timeYear": 1212,
     "dailyMinutesDown": {}
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 869,
     "timeDay": 694,
-    "timeWeek": 869,
+    "timeWeek": 897,
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {}
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 134,
-    "timeWeek": 154,
+    "timeWeek": 155,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 267,
-    "timeWeek": 270,
+    "timeWeek": 283,
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 676,
     "timeDay": 916,
-    "timeWeek": 676,
+    "timeWeek": 652,
     "timeMonth": 676,
     "timeYear": 676,
     "dailyMinutesDown": {}
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 108,
-    "timeWeek": 128,
+    "timeWeek": 129,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {}
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 108,
-    "timeWeek": 127,
+    "timeWeek": 128,
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {}
@@ -300,7 +300,7 @@
     "uptimeYear": "100.00%",
     "time": 1758,
     "timeDay": 2353,
-    "timeWeek": 1758,
+    "timeWeek": 1491,
     "timeMonth": 1758,
     "timeYear": 1758,
     "dailyMinutesDown": {}
@@ -310,18 +310,20 @@
     "url": "https://www.iy-da.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iy-da.co.kr.ico",
     "slug": "iy-da",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2622,
     "timeDay": 1795,
-    "timeWeek": 2622,
+    "timeWeek": 2708,
     "timeMonth": 2622,
     "timeYear": 2622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-15": 0
+    }
   },
   {
     "name": "Test Broken Site",
