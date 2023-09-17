@@ -310,19 +310,19 @@
     "url": "https://www.iy-da.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iy-da.co.kr.ico",
     "slug": "iy-da",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2339,
-    "timeDay": 1651,
-    "timeWeek": 2387,
-    "timeMonth": 2339,
-    "timeYear": 2339,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 2302,
+    "timeDay": 1702,
+    "timeWeek": 2329,
+    "timeMonth": 2302,
+    "timeYear": 2302,
     "dailyMinutesDown": {
-      "2023-09-17": 0
+      "2023-09-17": 8
     }
   },
   {
