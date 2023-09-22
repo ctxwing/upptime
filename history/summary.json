@@ -4,18 +4,20 @@
     "url": "https://www.contrixlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.contrixlab.com.ico",
     "slug": "contrixlab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1731,
     "timeDay": 1210,
     "timeWeek": 1687,
     "timeMonth": 1731,
     "timeYear": 1731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-22": 3
+    }
   },
   {
     "name": "3dcrafts.net",
@@ -58,36 +60,40 @@
     "url": "https://www.contrixlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.contrixlab.com.ico",
     "slug": "virtual-exhibition-panel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 804,
     "timeDay": 731,
     "timeWeek": 817,
     "timeMonth": 804,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-22": 2
+    }
   },
   {
     "name": "virtual exhibition 1",
     "url": "https://ctx.contrixlab.co.kr/main/app-files/",
     "icon": "https://icons.duckduckgo.com/ip3/ctx.contrixlab.co.kr.ico",
     "slug": "virtual-exhibition-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 944,
     "timeDay": 823,
     "timeWeek": 945,
     "timeMonth": 944,
     "timeYear": 944,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-22": 1
+    }
   },
   {
     "name": "virtual exhibition 2",
@@ -318,7 +324,7 @@
     "uptimeYear": "100.00%",
     "time": 2204,
     "timeDay": 1280,
-    "timeWeek": 1744,
+    "timeWeek": 1768,
     "timeMonth": 2204,
     "timeYear": 2204,
     "dailyMinutesDown": {}
