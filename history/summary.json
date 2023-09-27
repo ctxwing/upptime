@@ -310,9 +310,9 @@
     "url": "https://www.iy-da.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iy-da.co.kr.ico",
     "slug": "iy-da",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -321,7 +321,9 @@
     "timeWeek": 1805,
     "timeMonth": 2135,
     "timeYear": 2135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "Test Broken Site",
