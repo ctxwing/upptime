@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1729,
     "timeDay": 1746,
-    "timeWeek": 1727,
+    "timeWeek": 1759,
     "timeMonth": 1729,
     "timeYear": 1729,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 808,
     "timeDay": 699,
-    "timeWeek": 818,
+    "timeWeek": 763,
     "timeMonth": 808,
     "timeYear": 808,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 936,
     "timeDay": 764,
-    "timeWeek": 918,
+    "timeWeek": 886,
     "timeMonth": 936,
     "timeYear": 936,
     "dailyMinutesDown": {}
@@ -310,9 +310,9 @@
     "url": "https://www.iy-da.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.iy-da.co.kr.ico",
     "slug": "iy-da",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -321,7 +321,9 @@
     "timeWeek": 1817,
     "timeMonth": 2088,
     "timeYear": 2088,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-29": 0
+    }
   },
   {
     "name": "Test Broken Site",
