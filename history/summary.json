@@ -4,18 +4,20 @@
     "url": "https://www.contrixlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.contrixlab.com.ico",
     "slug": "contrixlab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1862,
     "timeDay": 2326,
     "timeWeek": 2317,
     "timeMonth": 1862,
     "timeYear": 1862,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 5
+    }
   },
   {
     "name": "3dcrafts.net",
@@ -40,100 +42,110 @@
     "url": "https://www.3dcrafts.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.3dcrafts.co.kr.ico",
     "slug": "3dcrafts-co-kr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1344,
     "timeDay": 1255,
     "timeWeek": 1440,
     "timeMonth": 1344,
     "timeYear": 1344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 5
+    }
   },
   {
     "name": "virtual exhibition panel",
     "url": "https://www.contrixlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.contrixlab.com.ico",
     "slug": "virtual-exhibition-panel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 833,
     "timeDay": 788,
     "timeWeek": 901,
     "timeMonth": 833,
     "timeYear": 833,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 4
+    }
   },
   {
     "name": "virtual exhibition 1",
     "url": "https://ctx.contrixlab.co.kr/main/app-files/",
     "icon": "https://icons.duckduckgo.com/ip3/ctx.contrixlab.co.kr.ico",
     "slug": "virtual-exhibition-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 960,
     "timeDay": 925,
     "timeWeek": 1017,
     "timeMonth": 960,
     "timeYear": 960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 3
+    }
   },
   {
     "name": "virtual exhibition 2",
     "url": "https://ctx2.contrixlab.co.kr/main/app-files/",
     "icon": "https://icons.duckduckgo.com/ip3/ctx2.contrixlab.co.kr.ico",
     "slug": "virtual-exhibition-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 968,
     "timeDay": 926,
     "timeWeek": 1050,
     "timeMonth": 968,
     "timeYear": 968,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 3
+    }
   },
   {
     "name": "virtual exhibition 3",
     "url": "https://ctx3.contrixlab.co.kr/main/app-files/",
     "icon": "https://icons.duckduckgo.com/ip3/ctx3.contrixlab.co.kr.ico",
     "slug": "virtual-exhibition-3",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 955,
     "timeDay": 911,
     "timeWeek": 1112,
     "timeMonth": 955,
     "timeYear": 955,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 2
+    }
   },
   {
     "name": "virtual exhibition 4",
     "url": "https://ctx4.contrixlab.co.kr/main/app-files/",
     "icon": "https://icons.duckduckgo.com/ip3/ctx4.contrixlab.co.kr.ico",
     "slug": "virtual-exhibition-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 954,
@@ -141,7 +153,9 @@
     "timeWeek": 1054,
     "timeMonth": 954,
     "timeYear": 954,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 2
+    }
   },
   {
     "name": "happyseum",
@@ -166,10 +180,10 @@
     "url": "https://dev.contrixlab.com/rainus/lobby/app-files/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.contrixlab.com.ico",
     "slug": "rainus-lobby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 896,
@@ -177,17 +191,19 @@
     "timeWeek": 1095,
     "timeMonth": 896,
     "timeYear": 896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 1
+    }
   },
   {
     "name": "rainus-fresh",
     "url": "https://dev.contrixlab.com/rainus/fresh/app-files/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.contrixlab.com.ico",
     "slug": "rainus-fresh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
@@ -195,16 +211,18 @@
     "timeWeek": 175,
     "timeMonth": 158,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 1
+    }
   },
   {
     "name": "rainus-electro",
     "url": "https://dev.contrixlab.com/rainus/electro/app-files/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.contrixlab.com.ico",
     "slug": "rainus-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +231,9 @@
     "timeWeek": 268,
     "timeMonth": 277,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 0
+    }
   },
   {
     "name": "forexcom-gisc2022-main",
